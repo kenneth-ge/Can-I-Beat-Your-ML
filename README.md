@@ -3,7 +3,7 @@ Today, we are trying to see whether we can classify an image as a desert or a fo
 
 Our ML contender for today has an accuracy of 100% for the desert images, and 95% for forests. 
 
-And our non-ML contender has is using a classic technique from FTC Team 11205 Edgemonsters, where it will pixelate the image into buckets and use HSV to determine whether there is more green or yellow present. 
+And our non-ML contender here is using a classic technique from FTC Team 11205 Edgemonsters, where it will pixelate the image into buckets and use HSV to determine whether there is more green or yellow present. 
 
 So far, the accuracy of each model looks like this:
 |                  | ML Model | Non-ML Algorithm |
