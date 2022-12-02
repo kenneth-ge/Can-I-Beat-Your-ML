@@ -1,4 +1,4 @@
-# Hello and welcome to this week's game show of "Can I Beat Your Neural Net?"
+# Hello and welcome to this week's game show of "Can I Beat Your ML algorithm?"
 Today, we are trying to see whether we can classify an image as a desert or a forest with accuracy greater than or equal to that of an ML model without using ML or data. 
 
 Our ML contender for today has an accuracy of 100% for the desert images, and 95% for forests. 
